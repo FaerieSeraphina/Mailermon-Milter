@@ -1,0 +1,6 @@
+# Ignore library sources and build
+lib/
+build/
+
+# Development test private key
+dev.key
